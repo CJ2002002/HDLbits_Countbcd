@@ -5,7 +5,7 @@ Build a 4-digit BCD (binary-coded decimal) counter. Each decimal digit is encode
 - **File**: code_pratice.v
 
 ## Diagram
-![Diagram](https://github.com/CJ2002002/Picture_bed/blob/main/image/top_module.png)
+![Diagram](https://github.com/CJ2002002/Picture_bed/blob/main/Counterbcd_image/top_module.jpg)
 ## Ports
 
 | Port name | Direction | Type   | Description |
@@ -25,3 +25,7 @@ Build a 4-digit BCD (binary-coded decimal) counter. Each decimal digit is encode
 - cnt_2: decade_cnt
 - cnt_3: decade_cnt
 - cnt_4: decade_cnt
+
+## RTL
+
+![RTL](https://github.com/CJ2002002/Picture_bed/blob/main/Counterbcd_image/Countbcd_rtl.jpg)
