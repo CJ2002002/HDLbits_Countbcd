@@ -5,7 +5,7 @@ Build a 4-digit BCD (binary-coded decimal) counter. Each decimal digit is encode
 - **File**: code_pratice.v
 
 ## Diagram
-![Diagram](top_module.svg "Diagram")
+![Diagram]([top_module.svg](https://github.com/CJ2002002/HDLbits_Countbcd/blob/main/top_module.svg) "Diagram")
 ## Ports
 
 | Port name | Direction | Type   | Description |
